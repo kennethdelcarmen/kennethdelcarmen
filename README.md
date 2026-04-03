@@ -28,7 +28,7 @@ I am a builder focused on bridging the gap between technical execution and produ
 ---
 
 ### 📊 GitHub Stats
-![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent)
+![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethdelcarmen&show_icons=true&theme=transparent)
 
 ---
 *“Your starting point doesn’t define your potential—your ability to execute does.”*
